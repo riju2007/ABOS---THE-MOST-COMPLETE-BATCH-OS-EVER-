@@ -3,6 +3,10 @@
 **ABOS** - THE BEST OS IN BATCH
 (rather operating environment)
 
+## DOWNLOADS
+https://github.com/riju2007/ABOS---THE-MOST-COMPLETE-BATCH-OS-EVER-/releases
+(there you can find the changelog)
+
 ## INSTALLATION
 
 JUST RUN THE SETUP FILE AND FOLLOW INSTRUCTIONS
