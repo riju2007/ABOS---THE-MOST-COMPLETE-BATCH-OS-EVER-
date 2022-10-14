@@ -1,10 +1,13 @@
 ![ABOS](https://user-images.githubusercontent.com/95460320/195863898-59de6ece-a623-4af6-a01c-e3698f9062d6.png)
 # ABOS - THE BEST OS IN BATCH
 (rather operating environment)
+
 THE BEST BATCH OS WITH TONS OF FEATURES....I'M SURE YOU WILL LOVE IT!!!!
 
 SINCE 2020
+
 2yrs of hardworks and success
 
 IT IS AN OPERATING ENVIRONMENT FOR WINDOWS 10 AND ABOVE
+
 BY BRATASIJ CHAKRABORTY AND APARAJITA KOLEY
