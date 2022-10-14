@@ -1,3 +1,36 @@
+::[Bat To Exe Converter]
+::
+::YAwzoRdxOk+EWAjk
+::fBw5plQjdCuDJHim23EMCTl7f0rMPW++D6EV5+b64/m7g28yZ6w2e4C7
+::YAwzuBVtJxjWCl3EqQJgSA==
+::ZR4luwNxJguZRRnk
+::Yhs/ulQjdF+5
+::cxAkpRVqdFKZSDk=
+::cBs/ulQjdF+5
+::ZR41oxFsdFKZSDk=
+::eBoioBt6dFKZSDk=
+::cRo6pxp7LAbNWATEpCI=
+::egkzugNsPRvcWATEpCI=
+::dAsiuh18IRvcCxnZtBJQ
+::cRYluBh/LU+EWAnk
+::YxY4rhs+aU+IeA==
+::cxY6rQJ7JhzQF1fEqQJgZko0
+::ZQ05rAF9IBncCkqN+0xwdVsEAlXi
+::ZQ05rAF9IAHYFVzEqQIRCjRnLA==
+::eg0/rx1wNQPfEVWB+kM9LVsJDGQ=
+::fBEirQZwNQPfEVWB+kM9LVsJDGQ=
+::cRolqwZ3JBvQF1fEqQJQ
+::dhA7uBVwLU+EWFuR/U40aBlNDAaQPX+7FbwWqOn166qGskwPVeg2bI67
+::YQ03rBFzNR3SWATElA==
+::dhAmsQZ3MwfNWATElA==
+::ZQ0/vhVqMQ3MEVWAtB9wSA==
+::Zg8zqx1/OA3MEVWAtB9wSA==
+::dhA7pRFwIByZRRnk
+::Zh4grVQjdCuDJHim23EMCTl7f0rMLmqtOpQ+x9u16vKCwg==
+::YB416Ek+ZW8=
+::
+::
+::978f952a14a936cc963da21a135fa983
 @shift /0
 @echo off
 title ABOS
@@ -1610,13 +1643,11 @@ echo.=======================
 echo    DETAILS  
 echo.      
 echo.  
-echo    Device RAM : 
+echo    V0.1
 echo.
-systeminfo | findstr /c:"Total Physical Memory"
+echo    Note: this oe only runs on windows 10 and later and is windows based
 echo.
-echo    Note: this os only runs on windows 10 and later and is windows based
-echo.
-echo    final build
+echo    INITIAL build
 echo.
 echo    This is a simple user-interface to manage your computer and many more
 echo.
