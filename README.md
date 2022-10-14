@@ -1,5 +1,6 @@
 ![ABOS](https://user-images.githubusercontent.com/95460320/195863898-59de6ece-a623-4af6-a01c-e3698f9062d6.png)
-# **ABOS** - THE BEST OS IN BATCH
+
+**ABOS** - THE BEST OS IN BATCH
 (rather operating environment)
 
 ## INSTALLATION
